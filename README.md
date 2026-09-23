@@ -1,6 +1,7 @@
 # Rakesh-Kothula-Phyllo-Assignment
 Product Analyst Intern Assignment
 
+**Note:** My resume (**Rakesh_Kothula_Support.docx**) is attached directly in this repository above.
 
 
 Product Analyst Internship Assignment — Meridian API
